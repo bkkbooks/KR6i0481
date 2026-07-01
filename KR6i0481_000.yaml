@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0481/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十號經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0782.xml
+    old_id: T17n0782
+hash: sha256:bbda4f349cade9f61c46375321425b59032d01a74ac2eb54e1c637b682179889
